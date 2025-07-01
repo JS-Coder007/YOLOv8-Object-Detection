@@ -10,7 +10,7 @@
 
 ---
 
-# 📦 Requirements
+# 📦 Requirements for the Program
 
 * Refer to the `requirements.txt` file for dependencies.
 * If you're using a **NVIDIA GPU**, install `onnxruntime-gpu`.
@@ -41,7 +41,7 @@ pip install -r requirements.txt
 
 ---
 
-# 🔄 Convert YOLOv8 to ONNX
+# 🔄 Convert YOLOv8 to ONNX 
 
 Use the Google Colab notebook to export the model:
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1-yZg6hFg27uCPSycRCRtyezHhq_VAHxQ?usp=sharing)
@@ -73,7 +73,7 @@ model.export(format="onnx", imgsz=[480, 640])
 
 # 🚀 Example Usage
 
-### 🔹 Image Inference
+### 🔹 Image Inference Used
 
 ```bash
 python image_object_detection.py
