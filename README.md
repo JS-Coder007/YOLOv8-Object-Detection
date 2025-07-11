@@ -2,11 +2,11 @@
 |![YOLOv8 Object Detection Example](https://raw.githubusercontent.com/JS-Coder007/YOLOv8-Object-Detection/refs/heads/main/doc/img/detected_objects.jpg)
   *Original image source: [Flickr - Nicole Lee](https://www.flickr.com/photos/nicolelee/19041780)*
 
-  # ⚠️ Important Note
+  # ⚠️ Important Note 
 
   * Input images are resized directly to fit the model’s expected input dimensions.
   * Padding is **not** applied, which may reduce accuracy if your images have a different aspect ratio than the model’s input size.
-  * To maintain performance, try to use input sizes that closely match the aspect ratio of your images.
+  * To maintain performance, try to use input sizes that closely match the aspect ratio of your images and try to reduce the size of the Image if possible.
 
 ---
 
