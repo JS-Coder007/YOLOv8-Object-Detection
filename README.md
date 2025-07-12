@@ -33,7 +33,7 @@ pip install -r requirements.txt
   ```bash
   pip install onnxruntime-gpu
   ```
-* For CPU-only systems:
+* For CPU-only systems(without Discrete GPU):
 
   ```bash
   pip install onnxruntime
