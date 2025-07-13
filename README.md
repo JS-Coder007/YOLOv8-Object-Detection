@@ -41,7 +41,7 @@ pip install -r requirements.txt
 
 ---
 
-# 🔄 Convert YOLOv8 to ONNX 
+# 🔄 Convert YOLOv8 to ONNX(Open Neural Network Exchange)
 
 Use the Google Colab notebook to export the model:
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1-yZg6hFg27uCPSycRCRtyezHhq_VAHxQ?usp=sharing)
