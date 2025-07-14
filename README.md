@@ -71,7 +71,7 @@ model.export(format="onnx", imgsz=[480, 640])
 
 ---
 
-# 🚀 Example Usage
+# 🚀 Example Usage:
 
 ### 🔹 Image Inference Used
 
